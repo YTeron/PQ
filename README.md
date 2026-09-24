@@ -1,0 +1,5 @@
+## insert(int value) - O(log n)
+## peekMax() - O(1)
+## extractMax() - O(log n)
+## indexOf(int value) - O(n)
+## changeKey(int i, int newValue)  - O(log n)
